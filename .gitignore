@@ -1,0 +1,23 @@
+# Byte-compiled 
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+# virtualenv
+.venv/
+venv/
+ENV/
+
+# other files
+*.json
+*.jpg
+*.jpeg
+*.png
+!demo.png
